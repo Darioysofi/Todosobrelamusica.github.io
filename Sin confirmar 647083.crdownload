@@ -1,0 +1,285 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+
+
+			<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="apple-touch-icon" sizes="180x180" href="/imagenes/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/imagenes/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/imagenes/favicon-16x16.png">
+		<link rel="manifest" href="/imagenes/site.webmanifest">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+		<link rel="stylesheet" href="/site/css/navik-horizontal-default-menu.min.css"> <!-- Navik navigation CSS -->
+		<link rel="stylesheet" href="/site/css/style.css">
+		<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Oswald' type='text/css'>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67192779-1"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'UA-67192779-1');
+	</script>
+
+	<script>
+		$(window).load(function() {
+			// Animate loader off screen
+			$(".se-pre-con").fadeOut("slow");;
+		});
+	</script>
+    	<title>¿Qué es una escala musical? | La Escala</title>
+		<meta name="description" content="Una escala musical es un grupo de notas que se tocan en secuencia de forma ascendente o descendente en su tono (suelen sonar agradables al oído). " />
+   		<meta name="robots" content="index,follow" />  
+   		<meta http-equiv="pragma" content="cache" />
+
+	<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content="¿Qué es una escala musical? | La Escala">
+		<meta itemprop="description" content="Una escala musical es un grupo de notas que se tocan en secuencia de forma ascendente o descendente en su tono (suelen sonar agradables al oído). ">
+		<meta itemprop="image" content="http://www.laescala.com.mx/blog/imagenes/que-es-una-escala-musical.jpg">
+
+	<!-- Twitter Card data -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@LaEscalaMx">
+		<meta name="twitter:title" content="¿Qué es una escala musical? | La Escala">
+		<meta name="twitter:description" content="Una escala musical es un grupo de notas que se tocan en secuencia de forma ascendente o descendente en su tono (suelen sonar agradables al oído). ">
+		<meta name="twitter:creator" content="@LaEscalaMx">
+		<!-- Twitter summary card with large image must be at least 280x150px -->
+		<meta name="twitter:image:src" content="http://www.laescala.com.mx/blog/imagenes/que-es-una-escala-musical.jpg">
+
+	<!-- Open Graph data -->
+		<meta property="og:title" content="¿Qué es una escala musical? | La Escala" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.laescala.com.mx/blog/que-es-una-escala-musical" />
+		<meta property="og:image" content="http://www.laescala.com.mx/blog/imagenes/que-es-una-escala-musical.jpg" />
+		<meta property="og:description" content="Una escala musical es un grupo de notas que se tocan en secuencia de forma ascendente o descendente en su tono (suelen sonar agradables al oído). " />
+		<meta property="og:site_name" content="Academia de Música La Escala" />
+		<meta property="article:published_time" content="" />
+		<meta property="article:modified_time" content="" />
+		<meta property="article:section" content="Professional Services" />
+		<meta property="article:tag" content="" />
+		<meta property="fb:admins" content="256059524520551" /> 
+
+		<html itemscope itemtype="http://schema.org/Article">
+		<link rel="canonical" href="http://www.laescala.com.mx/blog/que-es-una-escala-musical">
+
+	<link rel="stylesheet" href="style/main.css">
+	<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=60bfdf39de87ea0011bf9293&product=inline-share-buttons" async="async"></script>
+</head>
+<body>
+
+	<div class="se-pre-con"></div>
+
+<!-- Header -->
+	<div class="navik-header header-shadow">
+		<div class="container">
+
+			<!-- Navik header -->
+			<div class="navik-header-container">
+				
+				<!--Logo-->
+                <div class="logo" data-mobile-logo="/imagenes/academia-de-musica-logo.png" data-sticky-logo="/imagenes/academia-de-musica-logo.png">
+                	<a href="/" title="Academia de Música en CDMX"><img src="/imagenes/academia-de-musica-logo.png" alt="logo"/></a>
+				</div>
+				
+				<!-- Burger menu -->
+				<div class="burger-menu">
+					<div class="line-menu line-half first-line"></div>
+					<div class="line-menu"></div>
+					<div class="line-menu line-half last-line"></div>
+				</div>
+
+				<!--Navigation menu-->
+                <nav class="navik-menu menu-caret menu-hover-3 submenu-top-border submenu-scale">
+                	<ul>
+
+			<li><a href="/academia/nosotros">Nosotros</a></li>
+
+			<li class="submenu-right"><a href="#" title="Clases de Música">Clases de Música</a>
+							<ul>
+                            	<li><a href="/clases-de-piano" title="Clases de piano">Clases de piano</a></li>
+				<li><a href="/clases-de-guitarra" title="Clases de guitarra">Clases de guitarra</a></li>
+                                <li><a href="/clases-de-bajo" title="Clases de bajo">Clases de bajo</a></li>
+				<li><a href="/clases-de-violin" title="Clases de violin">Clases de violin</a></li>
+                                <li><a href="/clases-de-canto" title="Clases de canto">Clases de canto</a></li>
+				<li><a href="/clases-de-bateria" title="Clases de catería">Clases de batería</a></li>
+                                <li><a href="/academia/preguntas-sobre-las-clases-de-musica" title="Preguntas frecuentes sobre las clases de Música">Preguntas frecuentes</a></li>
+                            </ul>
+			</li>
+
+                        <li><a href="/clases-de-musica-para-ninos" title="Clases de Música para niños">Clases para niños</a></li>
+			
+                    	<li><a href="/blog" title="Blog de Música">Blog</a>
+                        	<ul>
+                            	<li><a href="/blog/c-aprende-musica" title="Aprende Música">Aprende Música</a></li>
+				<li><a href="/blog/c-datos-de-la-musica" title="Datos sobre la Música">Datos sobre la Música</a></li>
+				<li><a href="/blog/c-musica-para-ninos" title="Música para niños">Música para niños</a></li>
+				<li><a href="/blog/c-noticias" title="Noticias">Noticias</a></li>
+
+                            </ul>
+                        </li>
+			<li class="current-menu"><a href="/academia/contacto"><i class="fa fa-music fa-4x icon-3d" style="font-size: 14px; color: #000" aria-hidden="true"></i> Contáctanos</a></li>
+                    </ul>
+                </nav>
+			</div>
+		</div>
+	</div>
+	<!-- Content -->
+	<div class="wide-white">
+		<div class="content" style="text-align: left">
+			<div><h1>¿Qué es una escala musical?</h1><p>Publicado 26th Aug 2020 18:35:48 en <a href='c-aprende-musica'>Aprende música</a></p><p>Tagged as: <a href='t-musicos'>musicos</a></p><p><p>La escala es en principio uno de los conceptos m&aacute;s importantes en la teor&iacute;a musical. Es el fundamento de la m&uacute;sica y conocerlo te permite aprender nueva m&uacute;sica m&aacute;s f&aacute;cilmente, educar tu voz para cantar e incluso componer tus propias creaciones.</p>
+<p style="text-align: center;"><img src="../blog/imagenes/que-es-una-escala-musical.jpg" alt="&iquest;Qu&eacute; es una escala musical?" width="791" height="414" /></p>
+<h2>&iquest;Qu&eacute; es una escala?&nbsp;</h2>
+<p>Una escala musical es un grupo de notas que se tocan en secuencia de forma ascendente o descendente en su tono (suelen sonar agradables al o&iacute;do). En forma ascendente, cada nota tiene un tono m&aacute;s alto que el anterior, mientras que en forma descendente, cada nota tiene un tono m&aacute;s bajo que el anterior.</p>
+<p><br />La palabra escala proviene del lat&iacute;n &lsquo;scala&rsquo; que significa escalera, as&iacute; que podemos visualizar el tocar una escala como subir/bajar los escalones de una escalera &ndash;representada en el pentagrama. Otra manera de comprender una escala es como el alfabeto en un idioma; cada escala musical incluye diferentes notas y letras.&nbsp;</p>
+<h2><br />Escala mayor</h2>
+<p>Una escala muy conocida es &ldquo;do, re, mi, fa, sol, la, ti, do&rdquo;. Esta es una escala ascendente pues va de la nota m&aacute;s baja (do) hasta la m&aacute;s alta en la siguiente octava. Esta escala se conoce como &ldquo;escala mayor&rdquo; y su secuencia se compone de tono, tono, semitono, tono, tono, tono y semitono hasta repetir el ciclo. Asimismo, podemos utilizar esta misma secuencia (escala mayor) pero empezando con otra nota: sol, la, ti, do, re, mi fa#, sol&hellip;En la primera instancia tocamos la escala mayor de do y en la segunda la escala mayor de sol. Nota la secuencia: Tono &ndash; Tono &ndash; Semitono &ndash; Tono &ndash; Tono &ndash; Tono &ndash; Semitono&nbsp;</p>
+<p style="text-align: center;"><img src="../blog/imagenes/escala-mayor.jpg" alt="Escala mayor" width="800" height="500" /></p>
+<p>Cuando aprendes a tocar piano, notar&aacute;s que est&aacute;s son las mismas notas que las teclas blancas. As&iacute;, al tocar todas las notas blancas que van de do-bemol, has tocado una escala mayor.&nbsp;</p>
+<h2 style="text-align: center;"><iframe src="//www.youtube.com/embed/U9j6D-o2844" width="425" height="350"></iframe></h2>
+<h2 style="text-align: left;"><br />Tonos y semitonos</h2>
+<p>Un paso completo se conoce como tono; en el piano, significa avanzar 2 teclas o &ldquo;medio pasos&rdquo; (incluyendo las teclas negras). Un paso completo seria avanzar de do-re porque subimos a (1) do# y luego a (2) re. Un medio paso se conoce como semitono. En el piano, significa avanzar una tecla, incluyendo las teclas negras, por ejemplo do-do#.&nbsp;</p>
+<p style="text-align: center;"><em>Grados de una escala</em></p>
+<p style="text-align: center;"><img src="../blog/imagenes/grados-de-la-escala.png" alt="Grados de una escala" width="1024" height="180" /></p>
+<h2>Escala menor</h2>
+<p>Tambi&eacute;n existe la escala menor. Estas son escalas que tienen tambi&eacute;n siete notas como la escala mayor pero se distinguen por tener una tercera menor (un tono y medio), siguiendo un patr&oacute;n diferente: tono &ndash; semitono &ndash; tono &ndash; tono &ndash; semitono &ndash; tono &ndash; tono. A su vez, existen 3 variaciones de escalas menores: Natural, harm&oacute;nica y mel&oacute;dica.</p>
+<h3><br />Escala menor natural</h3>
+<p>La escala menor natural sigue la siguiente secuencia de tonos y semitonos: Tono &ndash; Semitono &ndash; Tono &ndash; Tono &ndash; Semitono &ndash; Tono &ndash; Tono.&nbsp; As&iacute;, podemos utilizar esta formula para formar una escala natural menor empezando con cualquier nota.&nbsp;</p>
+<p style="text-align: center;"><iframe src="//www.youtube.com/embed/LN7CXCADe-I" width="425" height="350"></iframe></p>
+<h3><br />Escala menor harm&oacute;nica</h3>
+<p>La escala menor harm&oacute;nica es muy similar a la menor, pero utiliza una combinaci&oacute;n distinta de tonos y semitonos: <strong>Tono &ndash; Semitono &ndash; Tono &ndash; Tono &ndash; Semitono &ndash; T1/2 &ndash; S.</strong>&nbsp;Esta formula tiene un intervalo que es un tono y medio o 3 semitonos. Para ser preciso, la escala harm&oacute;nica se <strong>diferencia de la natural porque el s&eacute;ptimo grado de la escala es un semitono m&aacute;s alto.</strong></p>
+<h3 style="text-align: center;"><iframe src="//www.youtube.com/embed/uBVqWPS9z1I" width="425" height="350"></iframe></h3>
+<h3><br />Escala menor mel&oacute;dica</h3>
+<p>Finalmente, tenemos la escala menor mel&oacute;dica que se diferencia bastante de las anteriores. Las escalas menores &ndash;naturales y harm&oacute;nicas- tienen el mismo patr&oacute;n ascendente y descendente y utilizan la formula Tono &ndash; Semitono &ndash; Tono &ndash; Tono &ndash; Semitono &ndash; Tono &ndash; Tono con la variaci&oacute;n T1/2 &ndash; Semitono al final.</p>
+<p>Las escalas mel&oacute;dicas utilizan un patr&oacute;n ascendente y&nbsp;descendente diferente. La sexta y s&eacute;ptima nota ascendentes suben, y la sexta y s&eacute;ptima nota descendente tiene un semitono m&aacute;s bajo que la escala mayor.</p>
+<p>Ascendente: <strong>Tono &ndash; Semitono &ndash; Tono &ndash; Tono &ndash; Tono &ndash; Tono &ndash; Semitono</strong></p>
+<p>Descendente : <strong>Tono &ndash; Tono &ndash; Semitono &ndash; Tono &ndash; Tono &ndash; Semitono &ndash; Tono&nbsp;</strong></p>
+<p style="text-align: center;"><iframe src="//www.youtube.com/embed/DzgNEA5nSbQ" width="425" height="350"></iframe></p>
+<p>&nbsp;</p>
+<h2>Los tonos y semitonos musicales en una guitarra.</h2>
+<p>En la guitarra, un tono equivale a 2 trastes y un semitono a un traste, poniendo a dos trastes equivaliendo a un tono y un semitono a un traste.&nbsp;</p>
+<p><br />Esta es una introducci&oacute;n para comprender el concepto de la escala musical. Puedes tomar una clase muestra de m&uacute;sica de tu instrumento favorito y aprender la t&eacute;cnica y teor&iacute;a musical de forma din&aacute;mica y entretenida. &nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="visuals">
+<aside>&iexcl;Registrame a mi clase de&nbsp;m&uacute;sica ONLINE gratis!</aside>
+<p style="color: #fff;">Imag&iacute;nate tocando tu m&uacute;sica favorita como todo un profesional. Toma una clase de muestra.</p>
+<div class="sectionx2" style="text-align: center;"><form action="/site/mail/mailer_blog.php" method="POST"><label for="name">Nombre:</label> <input name="name" size="19" type="text" /><br /><br /><label for="phone">Tel&eacute;fono:</label> <input name="phone" size="19" type="text" /><br /><br /><label for="email">E-mail:</label> <input name="email" size="19" type="text" /><br /><br /><label for="drop_down">Instrumento:</label><select name="drop_down" size="1">
+<option>Piano</option>
+<option>Guitarra</option>
+<option>Viol&iacute;n</option>
+<option>Canto</option>
+<option>Bajo</option>
+<option>Bateria</option>
+<option>Iniciaci&oacute;n musical (ni&ntilde;os)</option>
+</select><br /><br /><center><input id="submit" name="submit" type="submit" value="Registrame" /></center></form></div>
+<div class="sectionx2" style="text-align: right;"><img style="max-width: 325px;" src="imagenes/cta/clase-muestra-guitarra.png" alt="Clase muestra de m&uacute;sica" /></div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p></p></div>			<div class="sharethis-inline-share-buttons"></div>
+		</div>
+
+		<div class="sidebar" style="text-align: left">
+			<h4>Publicaciones más recientes</h4>
+<hr />
+
+<ul>
+<li><a href="como-afinar-la-voz-para-cantar">Cómo afinar la voz para cantar</a></li><li><a href="que-son-los-acordes-de-guitarra">¿Qué son los acordes de guitarra?</a></li><li><a href="5-errores-desastrosos-que-debes-evitar-al-tocar-el-piano">5 errores desastrosos que debes evitar al tocar el piano</a></li><li><a href="conoce-el-piano-y-aprende-desde-cero">Conoce el piano y aprende desde cero</a></li><li><a href="breve-historia-de-la-guitarra">Breve historia de la guitarra</a></li></ul>
+
+<h4>Categorias</h4>
+<hr />
+
+<ul>
+<li><a href="c-datos-de-la-musica">Datos de la música</a></li><li><a href="c-noticias">Noticias</a></li><li><a href="c-aprende-musica">Aprende música</a></li><li><a href="c-musica-para-ninos">Música para niños</a></li></ul>
+
+<h4>Tags</h4>
+<hr />
+
+<ul>
+    <li><a href='t-cantar'>Cantar</a></li><li><a href='t-guitarra'>Guitarra</a></li><li><a href='t-musicos'>Musicos</a></li><li><a href='t-piano'>Piano</a></li><li><a href='t-violin'>Violin</a></li></ul>
+
+			<h4>Síguenos</h4><center>
+  			<a href="https://www.facebook.com/laescaladf" target="blank"><i style="font-size: 25px; color: #030303" class="fa fa-facebook fa-4x icon-3d"></i></a>
+  			<a href="https://www.instagram.com/laescalamx" target="blank"><i style="font-size: 25px; color: #030303" class="fa fa-instagram fa-4x icon-3d"></i></a>
+  			<a href="https://www.pinterest.com/laescaladf" target="blank"><i style="font-size: 25px; color: #030303" class="fa fa-pinterest fa-4x icon-3d"></i></a>
+ 			<a href="https://www.twitter.com/laescaladf" target="blank"><i style="font-size: 25px; color: #030303" class="fa fa-twitter fa-4x icon-3d"></i></a></center>
+
+			<h4>Instagram</h4>
+				<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="http://lightwidget.com/widgets/4fa426a969a35af8a9d5c27a5d87f75a.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+			<h4>Twitter</h4>
+				<a class="twitter-timeline" data-lang="es" data-width="auto" data-height="300px" data-theme="light" href="https://twitter.com/LaEscalaDF?ref_src=twsrc%5Etfw">LaEscala</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+
+		<div id='clear'></div>
+	</div>
+
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script><script src="site/js/script-parallax.js"></script>
+
+	<!-- partial -->
+	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+
+		<!-- Footer -->
+	<div class="footer">
+		<div class="sectionx4" style="text-align: left; padding: 0px 10px;">
+			<h4>Síguenos</h4>
+  			<a href="https://www.facebook.com/laescaladf" target="blank"><i style="font-size: 40px" class="fa fa-facebook fa-4x icon-3d"></i></a>
+  			<a href="https://www.instagram.com/laescalamx" target="blank"><i style="font-size: 40px" class="fa fa-instagram fa-4x icon-3d"></i></a>
+  			<a href="https://www.pinterest.com/laescaladf" target="blank"><i style="font-size: 40px" class="fa fa-pinterest fa-4x icon-3d"></i></a>
+ 			<a href="https://www.twitter.com/laescaladf" target="blank"><i style="font-size: 40px" class="fa fa-twitter fa-4x icon-3d"></i></a>
+		</div>
+
+		<div class="sectionx4" style="text-align: left; padding: 0px 10px;">
+			<h4>Academia de música</h4>
+			<p>Clases diseñadas para que tu talento y gusto por la música se mezclen con la técnica precisa, con el único fin de que puedas expresarte musicalmente de la mejor manera posible.</p>
+		</div>
+
+		<div class="sectionx4" style="text-align: left; padding: 0px 10px;">
+			<h4>Contáctanos</h4>
+			<p><i class="fa fa-map-marker" style="font-size:15px"></i> Calle José de Emparan 48, Tabacalera, 06030 Ciudad de México, CDMX</p>
+			<p><i class="fa fa-phone" style="font-size:15px"></i> 55 5566 4609 <i class="fa fa-whatsapp" style="font-size:15px"></i> 55 1333 3338</p>
+			<p><i class="fa fa-envelope" style="font-size:15px"></i> info [arroba] laescala.com.mx</p>
+		</div>
+
+		<div class="sectionx4" style="text-align: left; padding: 0px 10px;">
+			<h4>Clases de música</h4>
+			<p><i class="fa fa-music" style="font-size:12px"></i> <a href="/clases-de-musica-para-ninos" title="Clases de música para niños">Clases para niños</a></p>
+			<p><i class="fa fa-music" style="font-size:12px"></i> <a href="/clases-de-musica-para-adultos" title="Clases de piano">Clases para adultos</a></p>
+			<p><i class="fa fa-music" style="font-size:12px"></i> <a href="/clases-de-piano" title="Clases de piano">Clases de piano</a></p>
+			<p><i class="fa fa-music" style="font-size:12px"></i> <a href="/clases-de-guitarra" title="Clases de guitarra">Clases de guitarra</a></p>
+		</div>
+	</div>
+
+	<div id="credits">
+		<a href="/sitemap.html">Mapa del sitio</a> | <a href="/academia/aviso-de-privacidad" rel="nofollow">Privacidad</a> &copy; 2022 Academia de Música La Escala, Derechos Reservados. 
+	</div>
+
+	<!-- GetButton.io widget -->
+		<script type="text/javascript">
+		(function () {
+		var options = {
+		facebook: "256059524520551", // Facebook page ID
+		whatsapp: "+52 1 55 1333 3338", // WhatsApp number
+		call_to_action: "¿Dudas? Contáctanos", // Call to action
+		button_color: "#932C8B", // Color of button
+		position: "right", // Position may be 'right' or 'left'
+		order: "facebook,whatsapp", // Order of buttons
+		};
+		var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+		var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+		s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+		var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+		})();
+		</script>
+	<!-- /GetButton.io widget -->
+
+	<script src="../site/js/navik.menu.js"></script> <!-- Navik navigation jQuery -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.minj.css">
+	<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'></body>
+</html>
